@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+._*
+
+# MATLAB temporary and autosave files
+*.asv
+*.m~
+*.autosave
+*.slxc
+slprj/
+
+# R temporary files
+.Rhistory
+.RData
+.Rproj.user/
+
+# Windows
+Thumbs.db
+
+# Workflow outputs
+results/
